@@ -2,5 +2,5 @@ import React from 'react';
 import './style.css';
 
 export default function App() {
-  return <div>Changed title</div>;
+  return <div>Updated</div>;
 }
